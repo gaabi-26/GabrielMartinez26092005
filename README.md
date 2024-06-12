@@ -9,6 +9,10 @@
   </ul>
 </div>
 
+<div id="user-content-toc">
+  <p align="center">Soy un estudiante de programacion. Todavia no tengo experiencia en el ambito laboral, pero estoy trabajando duro para lograr vivir de esto.</p>
+</div>
+
 
 <!--- snake -->
 <div align="center">
