@@ -24,6 +24,7 @@
     <ul>
         <li>C++</li>
         <li>C#</li>
+        <li>.Net Framework</li>
         <li>Python</li>
         <li>JavaScript</li>
         <li>Html</li>
