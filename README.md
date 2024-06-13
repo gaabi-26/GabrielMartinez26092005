@@ -9,17 +9,32 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <p align="center">Soy un estudiante de programacion. Todavia no tengo experiencia en el ambito laboral, pero estoy trabajando duro para lograr vivir de esto.</p>
-</div>
-
-
-<!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
+<div id="user-content-toc">
+  <h1>Un poco sobre mi</h1>
+  <p align="center">Soy un estudiante de programacion. Todavia no tengo experiencia en el ambito laboral, pero estoy trabajando duro para lograr vivir de esto.</p>
+</div>
+
+<div>
+    <h1>Un poco sobre mis habilidades</h1>
+    <ul>
+        <li>C++</li>
+        <li>C#</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Html</li>
+        <li>Css</li>
+    </ul>
+</div>
+
+<div>
+    <h1>Un poco sobre mis preferencias</h1>
+    <p>Como antes mencioné, no tengo mucha experiencia, pero a pesar de eso, tuve practicas Frontend y Backend. Mi preferencia mas importante es el Backend </p>
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
