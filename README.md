@@ -17,7 +17,7 @@
 
 <div id="user-content-toc">
   <h1>Un poco sobre mi</h1>
-  <p align="center">¡Hola! Soy Gabriel, un apasionado programador autodidacta de 18 años. A lo largo de mi camino, he completado diversas certificaciones, tanto presenciales como virtuales, en áreas como desarrollo full stack, inteligencia artificial con Python, desarrollo de aplicaciones de escritorio en C#, el stack MERN, y mucho más. Actualmente, estoy finalizando mi último año en la escuela secundaria técnica, donde me estoy formando como técnico mecánico electricista. El año próximo planeo continuar mis estudios en la universidad, donde espero profundizar en mi pasión por la tecnología con una licenciatura en sistemas. Estoy siempre abierto a nuevas oportunidades laborales y listo para aplicar mis conocimientos en proyectos desafiantes.</p>
+  <p>¡Hola! Soy Gabriel, un apasionado programador autodidacta de 18 años. A lo largo de mi camino, he completado diversas certificaciones, tanto presenciales como virtuales, en áreas como desarrollo full stack, inteligencia artificial con Python, desarrollo de aplicaciones de escritorio en C#, el stack MERN, y mucho más. Actualmente, estoy finalizando mi último año en la escuela secundaria técnica, donde me estoy formando como técnico mecánico electricista. El año próximo planeo continuar mis estudios en la universidad, donde espero profundizar en mi pasión por la tecnología con una licenciatura en sistemas. Estoy siempre abierto a nuevas oportunidades laborales y listo para aplicar mis conocimientos en proyectos desafiantes.</p>
 </div>
 
 <div>
