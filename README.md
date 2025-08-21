@@ -17,29 +17,24 @@
 
 <div id="user-content-toc">
   <h1>Un poco sobre mi</h1>
-  <p>¡Hola! Soy Gabriel, un apasionado programador autodidacta de 18 años. A lo largo de mi camino, he completado diversas certificaciones, tanto presenciales como virtuales, en áreas como desarrollo full stack, inteligencia artificial con Python, desarrollo de aplicaciones de escritorio en C#, el stack MERN, y mucho más. Actualmente, estoy finalizando mi último año en la escuela secundaria técnica, donde me estoy formando como técnico mecánico electricista. El año próximo planeo continuar mis estudios en la universidad, donde espero profundizar en mi pasión por la tecnología con una licenciatura en sistemas. Estoy siempre abierto a nuevas oportunidades laborales y listo para aplicar mis conocimientos en proyectos desafiantes.</p>
+  <p>¡Hola! Soy Gabriel. Durante mis últimos años en la secundaria técnica (Electromecánica) dediqué gran parte de mi tiempo libre al estudio autodidacta de programación. Además, completé dos años de formación en inglés en una academia.
+Cuento con diversas certificaciones, tanto presenciales como virtuales, en áreas como .NET Framework, bases de datos SQL, inteligencia artificial con Python y desarrollo full stack (MERN).
+Actualmente curso el primer año de la Licenciatura en Sistemas de la Información en la UADER (FCyT) y me encuentro abierto a nuevas oportunidades laborales.</p>
 </div>
 
 <div>
-    <h1>Un poco sobre mis habilidades</h1>
+    <h1>Mis principales habilidades</h1>
     <ul>
-        <li>Stack MERN</li>
-        <li>C++</li>
-        <li>C#</li>
         <li>.Net Framework</li>
-        <li>Python</li>
-        <li>Git</li>
-        <li>GitHub</li>
+		<li>ASP.NET MVC 5</li>
+        <li>C#</li>
         <li>SQL</li>
-        <li>NoSQL</li>
-        <li>Visual Studio</li>
-        <li>Visual Studio Code</li>
     </ul>
 </div>
 
 <div>
     <h1>Un poco sobre mis preferencias</h1>
-    <p>Aunque aún estoy construyendo mi experiencia, he tenido la oportunidad de practicar tanto en el Frontend como en el Backend. Si bien no me considero un experto en ninguna de las dos áreas, hasta ahora me he sentido más cómodo trabajando en el lado del servidor. El Backend ha capturado mi interés, pero sigo explorando y aprendiendo para definir mejor en qué área me gustaría especializarme en el futuro.</p>
+    <p>Al inicio, exploré distintas ramas de la programación, lo que me permitió adquirir una base sólida y variada. Sin embargo, actualmente mi interés está enfocado en el desarrollo backend con .NET Framework y C#, donde también destaco por mi sólido conocimiento en bases de datos SQL.</p>
 </div>
 
 <div id="user-content-toc">
