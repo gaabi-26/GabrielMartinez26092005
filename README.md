@@ -17,24 +17,28 @@
 
 <div id="user-content-toc">
   <h1>Un poco sobre mi</h1>
-  <p>¡Hola! Soy Gabriel. Durante mis últimos años en la secundaria técnica (Electromecánica) dediqué gran parte de mi tiempo libre al estudio autodidacta de programación. Además, completé dos años de formación en inglés en una academia.
-Cuento con diversas certificaciones, tanto presenciales como virtuales, en áreas como .NET Framework, bases de datos SQL, inteligencia artificial con Python y desarrollo full stack (MERN).
-Actualmente curso el primer año de la Licenciatura en Sistemas de la Información en la UADER (FCyT) y me encuentro abierto a nuevas oportunidades laborales.</p>
+  <p>Soy Gabriel, estudiante de la Licenciatura en Sistemas de Información (UADER – FCyT). Mi interés por la programación comenzó de forma autodidacta durante la secundaria técnica, etapa en la que empecé a dedicar gran parte de mi tiempo a aprender y practicar por cuenta propia.
+
+Con el tiempo fui orientando ese recorrido hacia el desarrollo de aplicaciones con tecnologías .NET, trabajando en proyectos personales y académicos que me permitieron afianzar conceptos como lógica, estructura de aplicaciones, persistencia de datos y organización del código. Hoy continúo formándome de manera constante, combinando la universidad con el estudio independiente.
+
+Actualmente me encuentro enfocado en seguir mejorando mis habilidades técnicas y en dar mis primeros pasos dentro del ámbito profesional del desarrollo de software.</p>
 </div>
 
 <div>
-    <h1>Mis principales habilidades</h1>
+    <h1>Algunas de las tecnologías con las que trabajo</h1>
     <ul>
-        <li>.Net Framework</li>
 		<li>ASP.NET MVC 5</li>
+        <li>.Net Framework</li>
+        <li>SQL Server</li>
         <li>C#</li>
-        <li>SQL</li>
+        <li>Entity Framework</li>
+        <li>HTML, CSS, JS, Bootstrap</li>
     </ul>
 </div>
 
 <div>
-    <h1>Un poco sobre mis preferencias</h1>
-    <p>Al inicio, exploré distintas ramas de la programación, lo que me permitió adquirir una base sólida y variada. Sin embargo, actualmente mi interés está enfocado en el desarrollo backend con .NET Framework y C#, donde también destaco por mi sólido conocimiento en bases de datos SQL.</p>
+    <h1>Intereses y enfoque</h1>
+    <p>Al comienzo exploré distintas áreas de la programación, lo que me permitió construir una base amplia. En esta etapa, mi principal interés está puesto en el backend, especialmente en el ecosistema .NET y el trabajo con bases de datos relacionales. Me motiva entender cómo funcionan las aplicaciones por dentro y mejorar continuamente la calidad de las soluciones que desarrollo.</p>
 </div>
 
 <div id="user-content-toc">
